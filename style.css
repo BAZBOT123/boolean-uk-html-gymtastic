@@ -1,0 +1,147 @@
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+
+h1{
+    color: white;
+    display: inline;
+    padding-left: 30px;
+    font-size: 30px;
+}
+
+.navbar,
+.navbar li {
+    display: inline;
+    padding-left: 0px;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
+
+div.top-main{
+    background-color: rgba(41, 143, 202, 0.87);
+    color: white;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    box-sizing: content-box;
+}
+
+div.top-main a {
+    padding-left: 30px;
+    box-sizing: content-box
+    color: white;
+    font-family: arial;
+    font-size: 17px; 
+}
+
+h4 {
+    font-family: arial;
+    color: rgba(36, 120, 168, 0.925);
+    font-size: 35px;
+    padding-left: 40px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+p {
+    font-family: arial;
+    padding-left: 40px;
+    font-size: 17px;
+}
+.middle-main p strong{
+    color: rgba(36, 120, 168, 0.925);
+}
+
+div.membership {
+    display: inline-block;
+    color: orange;
+    font-family: Arial;
+    font-size: 19px;
+    padding-left: 60px;
+    margin-top: 0px;
+    margin-left: 35px;
+    border: 3px solid orange;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+h5 {
+    font-family: arial;
+    color: rgba(36, 120, 168, 0.925);
+    font-size: 35px;
+    padding-left: 40px;
+    margin-top: 30px;
+    margin-bottom: 10px;
+}
+
+.ig {
+    display: inline-block;
+    font-family: arial;
+    font-size: 15px;
+    border: 2px solid black;
+    background: rgb(164, 87, 236);
+    border-radius: 10px;
+    margin-left: 40px;
+    padding-left: 40px;
+    padding-right: 40px;
+    width: auto;
+    color: white;
+    box-sizing: content-box;
+}
+
+.fb {
+    display: inline-block;
+    font-family: arial;
+    font-size: 15px;
+    border: 2px solid black;
+    background: #1698ee;
+    border-radius: 10px;
+    margin-left: 35px;
+    padding-left: 40px;
+    padding-right: 40px;
+    width: auto;
+    color: white;
+    box-sizing: border-box;
+}
+
+.yt {
+    display: inline-block;
+    font-family: arial;
+    font-size: 15px;
+    border: 2px solid black;
+    background: rgb(228, 54, 54);
+    border-radius: 10px;
+    margin-left: 35px;
+    padding-left: 40px;
+    padding-right: 40px;
+    width: auto;
+    color: white;
+    box-sizing: border-box;
+}
+
+
+
+.bottom-main {
+    background-color: rgba(41, 143, 202, 0.87);
+    color: white;
+    padding-left: 40px;
+    margin-top: 20px;
+    font-family: arial;
+    font-size: 17px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    width: auto;
+    box-sizing: border-box;
+}
+
+ul {
+    list-style: none;
+   }
+
+
+    

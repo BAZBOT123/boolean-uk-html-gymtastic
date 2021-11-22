@@ -1,0 +1,129 @@
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+
+h1{
+    color: white;
+    display: inline;
+    padding-left: 30px;
+    font-size: 30px;
+}
+
+.navbar,
+.navbar li {
+    display: inline;
+    padding-left: 0px;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
+
+div.top-main{
+    background-color: rgba(41, 143, 202, 0.87);
+    color: white;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    box-sizing: content-box;
+}
+
+div.top-main a {
+    padding-left: 30px;
+    box-sizing: content-box
+    color: white;
+    font-family: arial;
+    font-size: 17px; 
+}
+
+h4 {
+    font-family: arial;
+    color: rgba(36, 120, 168, 0.925);
+    font-size: 35px;
+    padding-left: 40px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+p {
+    font-family: arial;
+    padding-left: 40px;
+    font-size: 17px;
+}
+
+
+h5 {
+    font-family: arial;
+    color: rgba(36, 120, 168, 0.925);
+    font-size: 35px;
+    padding-left: 40px;
+    margin-top: 30px;
+    margin-bottom: 10px;
+}
+
+.London {
+    display: inline-block;
+    font-family: arial;
+    font-size: 15px;
+    border: 2px solid rgba(36, 120, 168, 0.925);
+    background: white;
+    border-radius: 10px;
+    margin-left: 40px;
+    padding-left: 40px;
+    padding-right: 40px;
+    width: auto;
+    color: rgba(36, 120, 168, 0.925);
+    box-sizing: content-box;
+}
+
+.Newcastle {
+    display: inline-block;
+    font-family: arial;
+    font-size: 15px;
+    border: 2px solid rgba(36, 120, 168, 0.925);
+    background: white;
+    border-radius: 10px;
+    margin-left: 35px;
+    padding-left: 40px;
+    padding-right: 40px;
+    width: auto;
+    color: rgba(36, 120, 168, 0.925);
+    box-sizing: border-box;
+}
+
+.Leeds {
+    display: inline-block;
+    font-family: arial;
+    font-size: 15px;
+    border: 2px solid rgba(36, 120, 168, 0.925);
+    background: white;
+    border-radius: 10px;
+    margin-left: 35px;
+    padding-left: 40px;
+    padding-right: 40px;
+    width: auto;
+    color: rgba(36, 120, 168, 0.925);
+    box-sizing: border-box;
+}
+
+.bottom-main {
+    background-color: rgba(41, 143, 202, 0.87);
+    color: white;
+    padding-left: 40px;
+    margin-top: 20px;
+    font-family: arial;
+    font-size: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    width: auto;
+    box-sizing: border-box;
+    display: block;
+    text-align: center;   
+}
+
+ul {
+    list-style: none;
+   }
