@@ -124,6 +124,62 @@ h5 {
     box-sizing: border-box;
 }
 
+
+h5 {
+    font-family: arial;
+    color: rgba(36, 120, 168, 0.925);
+    font-size: 35px;
+    padding-left: 40px;
+    margin-top: 30px;
+    margin-bottom: 10px;
+}
+
+.Review1 {
+    display: inline-block;
+    font-family: arial;
+    font-size: 15px;
+    border: 2px solid rgba(36, 120, 168, 0.925);
+    background: white;
+    border-radius: 10px;
+    margin-left: 40px;
+    padding-left: 40px;
+    padding-right: 40px;
+    width: auto;
+    color: rgba(36, 120, 168, 0.925);
+    box-sizing: content-box;
+    text-align: center;
+}
+
+.Review2 {
+    display: inline-block;
+    font-family: arial;
+    font-size: 15px;
+    border: 2px solid rgba(36, 120, 168, 0.925);
+    background: white;
+    border-radius: 10px;
+    margin-left: 35px;
+    padding-left: 40px;
+    padding-right: 40px;
+    width: auto;
+    color: rgba(36, 120, 168, 0.925);
+    box-sizing: border-box;
+}
+
+.Review3 {
+    display: inline-block;
+    font-family: arial;
+    font-size: 15px;
+    border: 2px solid rgba(36, 120, 168, 0.925);
+    background: white;
+    border-radius: 10px;
+    margin-left: 35px;
+    padding-left: 40px;
+    padding-right: 40px;
+    width: auto;
+    color: rgba(36, 120, 168, 0.925);
+    box-sizing: border-box;
+}
+
 .bottom-main {
     background-color: rgba(41, 143, 202, 0.87);
     color: white;
